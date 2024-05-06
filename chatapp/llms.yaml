@@ -1,0 +1,19 @@
+servers:
+  - name: server1
+    class: langchain_community.chat_models.ChatOllama
+    base_url: http://localhost:11434
+    model: llama2-uncensored
+    temperature: 0
+  - name: server2
+    class: langchain_openai.ChatOpenAI
+    model: gpt-3.5-turbo-1106
+    temperature: 0
+  - name: server3
+    class: langchain_aws.ChatBedrock
+    model_id: amazon.titan-text-express-v1
+    model_kwargs:
+      temperature: 0.1
+  - name: server4
+    class: langchain_community.chat_models.ChatOllama
+    base_url: http://localhost:11434
+    model: melrose
