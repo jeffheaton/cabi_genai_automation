@@ -40,7 +40,7 @@
 - 11:30 AM - Lab 3
 - 12:00 PM – Lunch
 - 1:00 PM - Resume
-  - Text to Image
+  - [Text to Image](cabi_genai_4_1_images.ipynb)
 - 1:30 PM - Lab 4
 - 2:00 PM - Automation Applications
 - 3:00 PM - Small Large Language Models
