@@ -1,3 +1,17 @@
+## Getting Started
+
+To obtain needed files clone this repository with the following command:
+
+```
+git clone https://github.com/jeffheaton/cabi_genai_automation.git
+```
+
+## Helpful Links
+
+- [Jeff Heaton](https://www.linkedin.com/in/jeffheaton/), [YouTube](https://youtube.com/@HeatonResearch), [GitHub](https://github.com/jeffheaton)
+- [Applications of Generative AI](https://github.com/jeffheaton/app_generative_ai)
+- [Applications of Deep Neural Networks](https://github.com/jeffheaton/app_deep_learning)
+
 ## Day 1: May 14, 2024
 
 - 9:00 AM – Introduction to Generative AI
