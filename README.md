@@ -26,7 +26,7 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
     - [Limitations of AI Code Generation](cabi_genai_1_6_code_gen_limit.ipynb)
 - 11:30 AM – [Lab 1](cabi_genai_1_lab.ipynb)
 - 12:00 PM – Lunch
-- 1:00 PM – Resume
+- 1:00 PM – Resume after lunch
   - Introduction to LLM
     - [Intro to LLM](cabi_genai_2_1_llm.ipynb)
     - [Text Generation](cabi_genai_2_2_text_gen.ipynb)
@@ -47,13 +47,12 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
 ## Day 2: May 15, 2024
 
 - 9:00 AM – AWS Presentation
-- 10:00 AM - Corporate ChatBots
-- 10:30 AM - StreamLit
+- 10:00 AM - Corporate ChatBots/1904 Labs
+- 11:00 AM - StreamLit
   - [Create your own ChatBot App](./chatapp/)
-- 11:00 AM - LangChain Support for RAG
-- 11:30 AM - Lab 3
+- 11:30 AM - [Lab 3](cabi_genai_3_lab.ipynb)
 - 12:00 PM – Lunch
-- 1:00 PM - Resume
+- 1:00 PM - Resume after lunch
   - [Text to Image](cabi_genai_4_1_images.ipynb)
 - 1:30 PM - [Lab 4](cabi_genai_4_lab.ipynb)
 - 2:00 PM - Automation Applications
