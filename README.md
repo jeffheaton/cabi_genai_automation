@@ -56,5 +56,6 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
   - [Text to Image](cabi_genai_4_1_images.ipynb)
 - 1:30 PM - [Lab 4](cabi_genai_4_lab.ipynb)
 - 2:00 PM - Automation Applications
+  - [Teaching Assistant](cabi_genai_5_1_prof_answer.ipynb)
 - 3:00 PM - Small Large Language Models
 - 5:00 PM – End of day 2
