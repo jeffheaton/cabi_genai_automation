@@ -1,3 +1,10 @@
+# Washington University, Olin School of Business
+
+# [CABI](https://olin.wustl.edu/faculty-and-research/research-centers/center-for-analytics-and-business-insight/index.php): Center for Analytics and Business Insights
+
+Introduction to Automation with LangChain, Generative AI and Python
+May 14 and 15, 2024
+
 ## Getting Started
 
 To obtain needed files clone this repository with the following command:
@@ -5,6 +12,8 @@ To obtain needed files clone this repository with the following command:
 ```
 git clone https://github.com/jeffheaton/cabi_genai_automation.git
 ```
+
+- Make sure to run [install.ipynb](install.ipynb)
 
 ## Helpful Links
 
