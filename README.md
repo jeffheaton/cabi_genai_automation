@@ -12,6 +12,14 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
 - [Applications of Generative AI](https://github.com/jeffheaton/app_generative_ai)
 - [Applications of Deep Neural Networks](https://github.com/jeffheaton/app_deep_learning)
 
+## Models Used
+
+- amazon.titan-text-lite-v1
+- anthropic.claude-3-sonnet-20240229-v1:0
+- meta.llama2-70b-chat-v1
+- mistral.mistral-7b-instruct-v0:2
+- stability.stable-diffusion-xl-v1
+
 ## Day 1: May 14, 2024
 
 - 9:00 AM – Introduction to Generative AI
