@@ -16,6 +16,7 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
 
 - amazon.titan-text-lite-v1
 - anthropic.claude-3-sonnet-20240229-v1:0
+- anthropic.claude-v2:1
 - meta.llama2-70b-chat-v1
 - mistral.mistral-7b-instruct-v0:2
 - stability.stable-diffusion-xl-v1
