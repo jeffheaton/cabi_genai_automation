@@ -1,3 +1,4 @@
+.python-version
 *.code-workspace
 submit.csv
 .vscode
