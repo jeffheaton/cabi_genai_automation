@@ -31,7 +31,7 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
 - stability.stable-diffusion-xl-v1
 
 ## Day 1: May 14, 2024
-
+[Day 1 Slides](./slides/cabi-genai-day1.pptx)
 - 9:00 AM – Introduction to Generative AI
 - 9:30 AM – Getting Started
   - Introduction to GenAI
