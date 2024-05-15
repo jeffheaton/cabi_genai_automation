@@ -23,9 +23,6 @@ def open_llm(server_name):
             clazz = get_class(class_path)
             # Remove 'class' and 'name' from the parameters as they're not needed for initialization
             params = {k: v for k, v in server.items() if k not in ["class", "name"]}
-            params = {
-                "model_id": "amazon.titan-text-express-v1",
-                "model_kwargs": {"temperature": 0.1},
-            }
+
             return clazz(**params)
     raise ValueError(f"Server '{server_name}' not found")

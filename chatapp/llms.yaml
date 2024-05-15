@@ -2,7 +2,7 @@ servers:
   - name: server1
     class: langchain_community.chat_models.ChatOllama
     base_url: http://localhost:11434
-    model: llama2-uncensored
+    model: llama2
     temperature: 0
   - name: server2
     class: langchain_openai.ChatOpenAI
@@ -14,6 +14,12 @@ servers:
     model_kwargs:
       temperature: 0.1
   - name: server4
-    class: langchain_community.chat_models.ChatOllama
-    base_url: http://localhost:11434
-    model: melrose
+    class: langchain_openai.ChatOpenAI
+    base_url: http://localhost:1234/v1/
+    model: TheBloke/Mistral-7B-Instruct-v0.1-GGUF
+    openai_api_key: None
+    temperature: 0
+
+
+
+

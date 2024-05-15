@@ -76,4 +76,5 @@ git clone https://github.com/jeffheaton/cabi_genai_automation.git
 - 2:00 PM - Automation Applications
   - [Teaching Assistant](cabi_genai_5_1_prof_answer.ipynb)
 - 3:00 PM - Small Large Language Models
+  - [LLM Studio](https://lmstudio.ai/)
 - 5:00 PM – End of day 2
